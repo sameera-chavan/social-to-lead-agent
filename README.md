@@ -24,9 +24,10 @@ This project was built as part of the **Machine Learning Intern Assignment for S
 ## How to Run the Project
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/sameera-chavan/social-to-lead-agent.git
 cd social-to-lead-agent
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+
